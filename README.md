@@ -1,3 +1,6 @@
+# What does the app do?
+It helps you stream the Pocket Bard Desktop apps audio to your discord voice channels with a Bot
+
 # Requirements
 ## python libraries
 - discord.py
